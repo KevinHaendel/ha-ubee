@@ -1,0 +1,6 @@
+{
+  "name": "Ubee Router",
+  "render_readme": true,
+  "domains": ["ubee"],
+  "iot_class": ["Local Polling"]
+}
