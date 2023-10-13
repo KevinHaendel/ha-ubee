@@ -1,10 +1,10 @@
 {
   "domain": "ubee",
   "name": "Ubee Router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentation": "https://github.com/kevinhaendel/ha-ubee",
   "issue_tracker": "https://github.com/kevinhaendel/ha-ubee/issues",
-  "requirements": ["pyubee==0.10"],
+  "requirements": ["pyubee==0.12"],
   "dependencies": [],
   "codeowners": ["@mzdrale", "@kevinhaendel"]
 }

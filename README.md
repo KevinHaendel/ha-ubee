@@ -28,9 +28,11 @@ Variable | Required | Description
 - Ambit EVW321B
 - Ubee DDW36C
 - Ubee DVW32CB
+- Ubee EVW32C-0S
+- Ubee EVW32C-0N
 - Ubee EVW3200-Wifi
 - Ubee EVW3226 (UPC)
-- Ubee EVW32C-0N
+- Ubee UBC1303BA00
 
 ## Note
 By default, Home Assistant pulls information about connected devices from Ubee router every 5 seconds. See the [device tracker integration page](https://www.home-assistant.io/integrations/device_tracker/) for instructions on how to configure the devices to be tracked.
